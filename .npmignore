@@ -1,0 +1,4 @@
+test
+*.log
+.gitignore
+.travis.yml
